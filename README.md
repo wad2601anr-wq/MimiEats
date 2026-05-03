@@ -5,11 +5,12 @@ AI-Powered Food Ordering Platform
 
 # 🌸 MimiEats — AI-Powered Food Ordering Platform
 
-MimiEats is a smart food ordering web application where buyers are in control. Powered by an AI chatbot, an auction-based pricing system, and real-time order tracking — MimiEats makes ordering food smarter, faster, and more fun.
+MimiEats is a smart food ordering web application where buyers are in control. Powered by an AI chatbot, an auction-based pricing system, and real-time order tracking. MimiEats makes ordering food smarter, faster, and more fun.
 
+---
+## 🌐 Live Buyer: http://mimieats.infinityfreeapp.com/WAD26/index.html
 
-🌐 **Live Buyer:** http://mimieats.infinityfreeapp.com/WAD26/index.html
-🏪 **Live Seller:** http://mimieats.infinityfreeapp.com/WAD26/seller.php
+## 🏪 Live Seller: http://mimieats.infinityfreeapp.com/WAD26/seller.php
 ---
 
 ## ✨ Key Features
